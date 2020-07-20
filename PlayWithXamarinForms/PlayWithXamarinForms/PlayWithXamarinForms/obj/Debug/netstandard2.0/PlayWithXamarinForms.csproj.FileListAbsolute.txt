@@ -2,7 +2,6 @@ D:\Udemy\Projects\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms
 D:\Udemy\Projects\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\bin\Debug\netstandard2.0\PlayWithXamarinForms.dll
 D:\Udemy\Projects\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\bin\Debug\netstandard2.0\ref\PlayWithXamarinForms.dll
 D:\Udemy\Projects\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\bin\Debug\netstandard2.0\PlayWithXamarinForms.pdb
-D:\Udemy\Projects\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\PlayWithXamarinForms.csprojAssemblyReference.cache
 D:\Udemy\Projects\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\App.xaml.g.cs
 D:\Udemy\Projects\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\GreetPage.xaml.g.cs
 D:\Udemy\Projects\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
@@ -17,7 +16,6 @@ D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\
 D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\bin\Debug\netstandard2.0\PlayWithXamarinForms.dll
 D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\bin\Debug\netstandard2.0\ref\PlayWithXamarinForms.dll
 D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\bin\Debug\netstandard2.0\PlayWithXamarinForms.pdb
-D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\PlayWithXamarinForms.csprojAssemblyReference.cache
 D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\App.xaml.g.cs
 D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\GreetPage.xaml.g.cs
 D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
@@ -28,3 +26,10 @@ D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\
 D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\PlayWithXamarinForms.dll
 D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\ref\PlayWithXamarinForms.dll
 D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\PlayWithXamarinForms.pdb
+D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\StackPage.xaml.g.cs
+D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\PlayWithXamarinForms.csprojAssemblyReference.cache
+D:\Udemy\Projects\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\StackPage.xaml.g.cs
+D:\Udemy\Projects\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\PlayWithXamarinForms.csprojAssemblyReference.cache
+D:\Udemy\Projects\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\GridView.xaml.g.cs
+D:\Udemy\Projects\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\AbsolutePage.xaml.g.cs
+D:\Udemy\Projects\PlayWithXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\RelativePage.xaml.g.cs

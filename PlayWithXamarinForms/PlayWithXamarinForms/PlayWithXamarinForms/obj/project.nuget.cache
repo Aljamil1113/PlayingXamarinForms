@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1mndfpTQvC9frUDEXcuNC0kVcfWGCqQHAjhbw4Qo3nsmG8rlwpFJ4BY4BmFU9PysFE56LwaqcURrX5RV5Y05ZA==",
+  "dgSpecHash": "c9KMWJhEtu0kVaroa0hfLRQcZez9UVBFzJmQk9vs8EPMPbkWozNjn+pCU8joNm0dLRcaNs/8g3yx0s27Efq6Zg==",
   "success": true,
-  "projectFilePath": "D:\\Udemy\\Projects\\PlayingXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.csproj",
+  "projectFilePath": "D:\\Udemy\\Projects\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",

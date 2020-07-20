@@ -1051,11 +1051,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Udemy\\Projects\\PlayingXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.iOS\\PlayWithXamarinForms.iOS.csproj",
+      "projectUniqueName": "D:\\Udemy\\Projects\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.iOS\\PlayWithXamarinForms.iOS.csproj",
       "projectName": "PlayWithXamarinForms.iOS",
-      "projectPath": "D:\\Udemy\\Projects\\PlayingXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.iOS\\PlayWithXamarinForms.iOS.csproj",
+      "projectPath": "D:\\Udemy\\Projects\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.iOS\\PlayWithXamarinForms.iOS.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Udemy\\Projects\\PlayingXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.iOS\\obj\\",
+      "outputPath": "D:\\Udemy\\Projects\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.iOS\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -1076,8 +1076,8 @@
       "frameworks": {
         "xamarinios10": {
           "projectReferences": {
-            "D:\\Udemy\\Projects\\PlayingXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.csproj": {
-              "projectPath": "D:\\Udemy\\Projects\\PlayingXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.csproj"
+            "D:\\Udemy\\Projects\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.csproj": {
+              "projectPath": "D:\\Udemy\\Projects\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.csproj"
             }
           }
         }

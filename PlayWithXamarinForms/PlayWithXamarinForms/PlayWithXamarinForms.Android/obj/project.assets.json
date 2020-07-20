@@ -1975,11 +1975,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Udemy\\Projects\\PlayingXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.Android\\PlayWithXamarinForms.Android.csproj",
+      "projectUniqueName": "D:\\Udemy\\Projects\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.Android\\PlayWithXamarinForms.Android.csproj",
       "projectName": "PlayWithXamarinForms.Android",
-      "projectPath": "D:\\Udemy\\Projects\\PlayingXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.Android\\PlayWithXamarinForms.Android.csproj",
+      "projectPath": "D:\\Udemy\\Projects\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.Android\\PlayWithXamarinForms.Android.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\Udemy\\Projects\\PlayingXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.Android\\obj\\",
+      "outputPath": "D:\\Udemy\\Projects\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.Android\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [
@@ -2000,8 +2000,8 @@
       "frameworks": {
         "monoandroid90": {
           "projectReferences": {
-            "D:\\Udemy\\Projects\\PlayingXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.csproj": {
-              "projectPath": "D:\\Udemy\\Projects\\PlayingXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.csproj"
+            "D:\\Udemy\\Projects\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.csproj": {
+              "projectPath": "D:\\Udemy\\Projects\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.csproj"
             }
           }
         }

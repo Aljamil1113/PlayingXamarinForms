@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EI4Uf6wGp3E3ypZuYahODmcNp99RqksNyJ3cSzbxb3ELh4Wyan1ndRFzrWnweT/QujUOI0XC+cRfxc1ol6tDlw==",
+  "dgSpecHash": "hqH3KKFCxsWL9cST84CVXTcjrFjAlnkoBWGkxwyONMpyngWpgnZaiPd9jXs8PjFFp/t1BIxLfj48scFzkLeA3w==",
   "success": true,
-  "projectFilePath": "D:\\Udemy\\Projects\\PlayingXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.Android\\PlayWithXamarinForms.Android.csproj",
+  "projectFilePath": "D:\\Udemy\\Projects\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.Android\\PlayWithXamarinForms.Android.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.android.arch.core.common\\1.1.1.3\\xamarin.android.arch.core.common.1.1.1.3.nupkg.sha512",
