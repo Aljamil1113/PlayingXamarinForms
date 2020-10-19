@@ -1,12 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "c9KMWJhEtu0kVaroa0hfLRQcZez9UVBFzJmQk9vs8EPMPbkWozNjn+pCU8joNm0dLRcaNs/8g3yx0s27Efq6Zg==",
+  "dgSpecHash": "Yg4EsiLznqwVTjvV/czVc5scRzP/IUMeJJsFoEbxCFMtcznhVrIl6bj+SbYTQ1Z7+FBAJ2RE6o++yXcTZPNjjQ==",
   "success": true,
-  "projectFilePath": "D:\\Udemy\\Projects\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.csproj",
+  "projectFilePath": "D:\\Udemy\\Projects\\PlayingXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms\\PlayWithXamarinForms.csproj",
   "expectedPackageFiles": [
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\HP\\.nuget\\packages\\xam.plugins.forms.imagecircle\\3.0.0.5\\xam.plugins.forms.imagecircle.3.0.0.5.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.3.1\\xamarin.essentials.1.3.1.nupkg.sha512",
     "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.5.0.495\\xamarin.forms.4.5.0.495.nupkg.sha512"
   ],

@@ -10,11 +10,13 @@ namespace PlayWithXamarinForms
         {
             InitializeComponent();
 
+            //MainPage = new MainPage();
             //MainPage = new GreetPage();
             //MainPage = new StackPage();
             //MainPage = new GridView();
             //MainPage = new AbsolutePage();
-            MainPage = new RelativePage();
+            //MainPage = new RelativePage();
+            MainPage = new ImagePage();
         }
 
         protected override void OnStart()

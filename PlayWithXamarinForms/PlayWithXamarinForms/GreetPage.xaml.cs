@@ -37,8 +37,7 @@ namespace PlayWithXamarinForms
             {
                 i = 0;
             }
-            label1.Text = quotes[i++];
-            
+            label1.Text = quotes[i++];        
         }
     }
 }
