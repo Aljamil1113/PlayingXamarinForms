@@ -16,7 +16,8 @@ namespace PlayWithXamarinForms
             //MainPage = new GridView();
             //MainPage = new AbsolutePage();
             //MainPage = new RelativePage();
-            MainPage = new ImagePage();
+            //MainPage = new ImagePage();
+            MainPage = new Lists();
         }
 
         protected override void OnStart()
