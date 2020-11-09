@@ -29,7 +29,13 @@ namespace PlayWithXamarinForms
 
             //MainPage = new Lists();
 
-            MainPage = new SampleTabbed();
+            //MainPage = new SampleTabbed();
+
+            //MainPage = new SampleCarousel();
+
+            //MainPage = new SamplePopupxaml();
+
+            MainPage = new NavigationPage(new ToolBar());
         }
 
         protected override void OnStart()
