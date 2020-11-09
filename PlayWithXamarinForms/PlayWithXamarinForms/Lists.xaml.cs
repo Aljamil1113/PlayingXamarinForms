@@ -13,7 +13,7 @@ using Xamarin.Forms.Xaml;
 namespace PlayWithXamarinForms
 {
     [XamlCompilation(XamlCompilationOptions.Compile)]
-    public partial class Lists : ContentPage
+    public partial class Lists : MasterDetailPage
     {
         private ObservableCollection<Contact> _contacts;
         public Lists()
@@ -40,15 +40,15 @@ namespace PlayWithXamarinForms
             //    }             
             //};
 
-            //_contacts = new ObservableCollection<Contact>
-            //{
-            //    new Contact{Name = "Mosh", ImageUrl = "https://randomuser.me/api/portraits/men/28.jpg", Status = "Hey!"},
-            //    new Contact{ Name = "Franzin", ImageUrl = "https://randomuser.me/api/portraits/women/81.jpg", Status = "Yow Wazzup"}
-            //};
+            _contacts = new ObservableCollection<Contact>
+            {
+                new Contact{Name = "Mosh", ImageUrl = "https://randomuser.me/api/portraits/men/28.jpg", Status = "Hey!"},
+                new Contact{ Name = "Franzin", ImageUrl = "https://randomuser.me/api/portraits/women/81.jpg", Status = "Yow Wazzup"}
+            };
 
-            //listView.ItemsSource = _contacts;
+            listView.ItemsSource = _contacts;
 
-            listView.ItemsSource = GetContacts();
+            //listView.ItemsSource = GetContacts();
         }
 
         //private void listView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
@@ -112,14 +112,11 @@ namespace PlayWithXamarinForms
             listView.ItemsSource = GetContacts(e.NewTextValue);
         }
 
-        private async void listView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
+        private void listView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
         {
-            if (e.SelectedItem == null)
-                return;
-
             var contact = e.SelectedItem as Contact;
-            await Navigation.PushAsync(new ListDetail(contact));
-            listView.SelectedItem = null;
+            Detail = new NavigationPage( new ListDetail(contact));
+            IsPresented = false; //IsMasterPresented
         }
     }
 }

@@ -25,7 +25,9 @@ namespace PlayWithXamarinForms
             //    BarTextColor = Color.White
             //};
 
-            MainPage = new NavigationPage(new Lists());
+            //MainPage = new NavigationPage(new Lists());
+
+            MainPage = new Lists();
         }
 
         protected override void OnStart()

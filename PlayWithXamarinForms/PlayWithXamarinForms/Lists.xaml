@@ -1,15 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+
+<MasterDetailPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:d="http://xamarin.com/schemas/2014/forms/design"
              xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
-             mc:Ignorable="d" Padding="0,20,0,0"
-             x:Class="PlayWithXamarinForms.Lists" >
+             mc:Ignorable="d"
+             x:Class="PlayWithXamarinForms.Lists" IsPresented="True">
+    <MasterDetailPage.Master>
+        <ContentPage  Padding="0,20,0,0" Title="Contacts">
 
-    <!--<ListView x:Name="listView" SeparatorColor="Blue" HasUnevenRows="True">
+            <!--<ListView x:Name="listView" SeparatorColor="Blue" HasUnevenRows="True">
         <ListView.ItemTemplate>
             <DataTemplate>
-                --><!--<ImageCell Text="{Binding Name}" Detail="{Binding Status}" ImageSource="{Binding ImageUrl}" ></ImageCell>--><!--
+                -->
+            <!--<ImageCell Text="{Binding Name}" Detail="{Binding Status}" ImageSource="{Binding ImageUrl}" ></ImageCell>-->
+            <!--
                 <ViewCell>
                     <StackLayout Orientation="Horizontal" Padding="5">
                         <Image Source="{Binding ImageUrl}"></Image>
@@ -24,7 +29,7 @@
         </ListView.ItemTemplate>
     </ListView>-->
 
-    <!--<ListView x:Name="listView" IsGroupingEnabled="true"
+            <!--<ListView x:Name="listView" IsGroupingEnabled="true"
               GroupDisplayBinding="{Binding Title}"
               GroupShortNameBinding="{Binding ShortTitle}">
         <ListView.ItemTemplate>
@@ -34,7 +39,7 @@
         </ListView.ItemTemplate>
     </ListView>-->
 
-    <!--<ListView x:Name="listView" ItemSelected="listView_ItemSelected"
+            <!--<ListView x:Name="listView" ItemSelected="listView_ItemSelected"
                ItemTapped="listView_ItemTapped" Refreshing="listView_Refreshing">
         <ListView.ItemTemplate>
             <DataTemplate>
@@ -48,14 +53,20 @@
         </ListView.ItemTemplate>
     </ListView>-->
 
-    <StackLayout>
-        <SearchBar Placeholder="Search..." TextChanged="SearchBar_TextChanged"></SearchBar>
-        <ListView x:Name="listView" ItemSelected="listView_ItemSelected">
-            <ListView.ItemTemplate>
-                <DataTemplate>
-                    <TextCell Text="{Binding Name}" Detail="{Binding Status}"></TextCell>
-                </DataTemplate>
-            </ListView.ItemTemplate>
-        </ListView>
-    </StackLayout>
-</ContentPage>
+            <StackLayout>
+                <SearchBar Placeholder="Search..." TextChanged="SearchBar_TextChanged"></SearchBar>
+                <ListView x:Name="listView" ItemSelected="listView_ItemSelected">
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <TextCell Text="{Binding Name}" Detail="{Binding Status}"></TextCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+            </StackLayout>
+        </ContentPage>
+    </MasterDetailPage.Master>
+    <MasterDetailPage.Detail>
+        <ContentPage />
+    </MasterDetailPage.Detail>
+</MasterDetailPage>
+
