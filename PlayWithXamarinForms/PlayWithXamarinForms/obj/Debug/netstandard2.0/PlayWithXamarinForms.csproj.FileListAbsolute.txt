@@ -57,4 +57,4 @@ D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\
 D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\Page1.xaml.g.cs
 D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\Welcome.xaml.g.cs
 D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\ListDetail.xaml.g.cs
-D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\PlayWithXamarinForms.csprojAssemblyReference.cache
+D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\SampleTabbed.xaml.g.cs

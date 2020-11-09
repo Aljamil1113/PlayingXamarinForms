@@ -27,7 +27,9 @@ namespace PlayWithXamarinForms
 
             //MainPage = new NavigationPage(new Lists());
 
-            MainPage = new Lists();
+            //MainPage = new Lists();
+
+            MainPage = new SampleTabbed();
         }
 
         protected override void OnStart()
