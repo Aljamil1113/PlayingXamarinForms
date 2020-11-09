@@ -46,9 +46,9 @@ namespace PlayWithXamarinForms
             //    new Contact{ Name = "Franzin", ImageUrl = "https://randomuser.me/api/portraits/women/81.jpg", Status = "Yow Wazzup"}
             //};
 
-            listView.ItemsSource = _contacts;
+            //listView.ItemsSource = _contacts;
 
-            //listView.ItemsSource = GetContacts();
+            listView.ItemsSource = GetContacts();
         }
 
         //private void listView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
@@ -110,6 +110,16 @@ namespace PlayWithXamarinForms
         private void SearchBar_TextChanged(object sender, TextChangedEventArgs e)
         {
             listView.ItemsSource = GetContacts(e.NewTextValue);
+        }
+
+        private async void listView_ItemSelected(object sender, SelectedItemChangedEventArgs e)
+        {
+            if (e.SelectedItem == null)
+                return;
+
+            var contact = e.SelectedItem as Contact;
+            await Navigation.PushAsync(new ListDetail(contact));
+            listView.SelectedItem = null;
         }
     }
 }

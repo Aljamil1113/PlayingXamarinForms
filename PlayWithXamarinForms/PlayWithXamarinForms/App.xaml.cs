@@ -19,11 +19,13 @@ namespace PlayWithXamarinForms
             //MainPage = new ImagePage();
             //MainPage = new Lists();
 
-            MainPage = new NavigationPage(new Welcome())
-            {
-                BarBackgroundColor = Color.Gray,
-                BarTextColor = Color.White
-            };
+            //MainPage = new NavigationPage(new Welcome())
+            //{
+            //    BarBackgroundColor = Color.Gray,
+            //    BarTextColor = Color.White
+            //};
+
+            MainPage = new NavigationPage(new Lists());
         }
 
         protected override void OnStart()
