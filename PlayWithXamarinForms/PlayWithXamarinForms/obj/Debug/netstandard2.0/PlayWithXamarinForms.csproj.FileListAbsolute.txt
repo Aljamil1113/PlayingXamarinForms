@@ -59,6 +59,15 @@ D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\
 D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\ListDetail.xaml.g.cs
 D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\SampleTabbed.xaml.g.cs
 D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\SampleCarousel.xaml.g.cs
-D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\PlayWithXamarinForms.csprojAssemblyReference.cache
 D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\SamplePopupxaml.xaml.g.cs
 D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\ToolBar.xaml.g.cs
+D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\FormsSettings\SwitchPage.xaml.g.cs
+D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\FormsSettings\SliderPage.xaml.g.cs
+D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\FormsSettings\StepperPage.xaml.g.cs
+D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\FormsSettings\EntryFormPage.xaml.g.cs
+D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\FormsSettings\PickertypePage.xaml.g.cs
+D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\FormsSettings\DatepickerPage.xaml.g.cs
+D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\FormsSettings\TableViewPage.xaml.g.cs
+D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\PlayWithXamarinForms.csprojAssemblyReference.cache
+D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\Extension\DateCell.xaml.g.cs
+D:\Udemy\Projects\PlayingXamarinForms\PlayWithXamarinForms\PlayWithXamarinForms\obj\Debug\netstandard2.0\FormsSettings\ContactListPagexaml.xaml.g.cs

@@ -1,4 +1,5 @@
-﻿using System;
+﻿using PlayWithXamarinForms.FormsSettings;
+using System;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
 
@@ -35,7 +36,24 @@ namespace PlayWithXamarinForms
 
             //MainPage = new SamplePopupxaml();
 
-            MainPage = new NavigationPage(new ToolBar());
+            //MainPage = new NavigationPage(new ToolBar());
+
+
+            //MainPage = new SwitchPage();
+
+            //MainPage = new SliderPage();
+
+            //MainPage = new StepperPage();
+
+            //MainPage = new EntryFormPage();
+
+            //MainPage = new PickertypePage();
+
+            //MainPage = new DatepickerPage();
+
+            //MainPage = new TableViewPage()
+
+            //MainPage = new NavigationPage(new TableViewPage());
         }
 
         protected override void OnStart()

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PlayWithXamarinForms.FormsSettings.SliderPage">
+    <StackLayout>
+        <Slider x:Name="slider1" Minimum="0" Maximum="255"  Value="50" ValueChanged="slider1_ValueChanged"></Slider>
+        <Label Text="{Binding Source={x:Reference slider1}, Path=Value, StringFormat='{0:N0}'}"></Label>
+    </StackLayout>
+</ContentPage>
